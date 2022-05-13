@@ -1,0 +1,11 @@
+C:\Users\Braya\source\repos\cuestionario\cuestionario\obj\Debug\cuestionario.csproj.AssemblyReference.cache
+C:\Users\Braya\source\repos\cuestionario\cuestionario\obj\Debug\cuestionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Braya\source\repos\cuestionario\cuestionario\obj\Debug\cuestionario.Form1.resources
+C:\Users\Braya\source\repos\cuestionario\cuestionario\obj\Debug\cuestionario.Properties.Resources.resources
+C:\Users\Braya\source\repos\cuestionario\cuestionario\obj\Debug\cuestionario.csproj.GenerateResource.cache
+C:\Users\Braya\source\repos\cuestionario\cuestionario\obj\Debug\cuestionario.csproj.CoreCompileInputs.cache
+C:\Users\Braya\source\repos\cuestionario\cuestionario\bin\Debug\cuestionario.exe.config
+C:\Users\Braya\source\repos\cuestionario\cuestionario\bin\Debug\cuestionario.exe
+C:\Users\Braya\source\repos\cuestionario\cuestionario\bin\Debug\cuestionario.pdb
+C:\Users\Braya\source\repos\cuestionario\cuestionario\obj\Debug\cuestionario.exe
+C:\Users\Braya\source\repos\cuestionario\cuestionario\obj\Debug\cuestionario.pdb
